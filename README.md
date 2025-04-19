@@ -41,11 +41,6 @@ Each entry includes:
 
 This model is developed **strictly for academic research**. We recognize the sensitivity of the topic and commit to ensuring responsible use of this technology.
 
-## 📚 Contributors
-
-This project was developed as part of an interdisciplinary capstone by students from:
-- Department of Electronics and Communication Engineering  
-at **Sathyabama Institute of Science and Technology**, Chennai.
 
 ## 📌 Disclaimer
 
