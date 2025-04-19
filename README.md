@@ -1,7 +1,7 @@
 
 # Sexual Harassment Classification (Multi-Class)
 
-This project is part of an **Interdisciplinary Research Initiative** at **Sathyabama Institute of Science and Technology**, aiming to use Artificial Intelligence for detecting and classifying different types of sexual harassment based on textual reports.
+This project is part of an **Interdisciplinary Project** at **Sathyabama Institute of Science and Technology**, aiming to use Artificial Intelligence for detecting and classifying different types of sexual harassment based on textual reports.
 
 ## 🧠 Objective
 
