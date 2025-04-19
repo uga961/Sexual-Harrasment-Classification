@@ -52,7 +52,3 @@ at **Sathyabama Institute of Science and Technology**, Chennai.
 The model is in a prototype stage and should not be used for real-world decisions without expert validation and further testing on larger datasets.
 
 ---
-
-```
-
-Let me know if you'd like the actual `train.csv` and `test.csv` sample templates, or even basic Python scripts (`train.py`, `evaluate.py`) to go along with this!
